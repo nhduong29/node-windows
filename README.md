@@ -1,9 +1,9 @@
 # node-windows
 
-![NPM version](https://img.shields.io/npm/v/node-windows?label=node-windows&logo=npm&style=for-the-badge)
-![NGN Dependencies](https://david-dm.org/coreybutler/node-windows.svg?style=for-the-badge)
+![NPM version](https://img.shields.io/badge/node--wondows--cyrus-1.0.0-green)
 
-[Tweet me (@goldglovecb)](http://twitter.com/goldglovecb) if you need me.
+# IMPORTANT
+`THIS PACKAGE JUST FOR FIX THE VULNERABILITIES REPORTED BY SNYK `
 
 ---
 
