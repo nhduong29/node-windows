@@ -1,7 +1,7 @@
 {
-  "name": "node-windows",
-  "version": "1.0.0-beta.5",
-  "description": "Support for Windows services, event logging, UAC, and several helper methods for interacting with the OS.",
+  "name": "node-windows-cyrus",
+  "version": "1.0.0",
+  "description": "Support for Windows services, event logging, UAC, and several helper methods for interacting with the OS. Fix Snyk Vulnerabilities",
   "keywords": [
     "ngn",
     "windows",
@@ -12,9 +12,10 @@
     "event logging",
     "elevate",
     "sudo",
-    "task"
+    "task",
+    "cyrus"
   ],
-  "author": "Corey Butler <corey@coreybutler.com>",
+  "author": "Cyrus Nguyen <nhduong29@gmail.com>",
   "devDependencies": {},
   "main": "lib/node-windows.js",
   "preferGlobal": true,
@@ -26,7 +27,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/coreybutler/node-windows.git"
+    "url": "git://github.com/nhduong29/node-windows.git"
   },
   "license": "MIT",
   "engine": "node >= 0.10.10"
